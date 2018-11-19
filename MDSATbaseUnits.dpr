@@ -15,7 +15,8 @@ uses
   UDriver in '7-Driver Routines\UDriver.pas',
   uINTodeCLASS in '8-INTode Class\uINTodeCLASS.pas',
   UDSmodel in '9-DSmodel\UDSmodel.pas',
-  UdsModelS in 'X-DSmodelS\UdsModelS.pas';
+  UdsModelS in 'X-DSmodelS\UdsModelS.pas',
+  uDSmodelS_Interface in 'X-DSmodelS\uDSmodelS_Interface.pas';
 
 begin
   try
